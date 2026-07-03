@@ -234,9 +234,11 @@ Full API documentation: [docs/DESIGN_DOCUMENT.md](docs/DESIGN_DOCUMENT.md)
 
 ---
 
-## Team
+**Built with ❤️ to optimize campus mobility 2026**
 
-Built for the Real-Time Campus Mobility and Ride Management Platform challenge.
+*A robust, full-stack carpooling system built to solve the challenges of inter-campus commuting. This project demonstrates high-concurrency handle, real-time map integration, and efficient matching algorithms. Perfect for showcasing backend scalability and end-to-end full-stack development.*
+
+** Made by Bhukya Naresh **
 
 ---
 
